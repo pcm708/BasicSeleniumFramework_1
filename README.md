@@ -1,4 +1,5 @@
-# BasicSeleniumFramework_NOP
+# BasicSeleniumFramework_1
+Pratice Application used: https://admin-demo.nopcommerce.com/Admin/Customer/List
 Developed a FW using Selenium-Java. 
 
 With the help of TestNG and Selenium Libraries, made a basic framework just for practice.
